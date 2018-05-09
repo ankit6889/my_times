@@ -16,6 +16,8 @@ header {
 body {
   margin: 0;
   display: block;
+  font-family: Georgia;
+  font-size: 17px;
 }
 
 .logo {
